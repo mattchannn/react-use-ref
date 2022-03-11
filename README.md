@@ -1,4 +1,4 @@
-<h1 align="center">React State Initializer Pattern 👨‍💻</h1>
+<h1 align="center">React useRef 👨‍💻</h1>
 
 CREATED BY CODESANDBOX
 
