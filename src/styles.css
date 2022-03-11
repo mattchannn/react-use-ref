@@ -154,3 +154,8 @@ progress {
 [hidden] {
   display: none;
 }
+
+.fancy-btn-master {
+  margin-top: 1rem;
+  padding: 1rem;
+}
